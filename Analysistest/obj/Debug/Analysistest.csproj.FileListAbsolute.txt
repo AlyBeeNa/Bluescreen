@@ -1,0 +1,15 @@
+C:\Users\diana\source\repos\Analysistest\bin\Debug\Analysistest.exe.config
+C:\Users\diana\source\repos\Analysistest\bin\Debug\Analysistest.exe
+C:\Users\diana\source\repos\Analysistest\bin\Debug\Analysistest.pdb
+C:\Users\diana\source\repos\Analysistest\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\diana\source\repos\Analysistest\bin\Debug\Bunifu.Licensing.dll
+C:\Users\diana\source\repos\Analysistest\obj\Debug\Analysistest.csproj.SuggestedBindingRedirects.cache
+C:\Users\diana\source\repos\Analysistest\obj\Debug\Analysistest.menufrm.resources
+C:\Users\diana\source\repos\Analysistest\obj\Debug\Analysistest.Properties.Resources.resources
+C:\Users\diana\source\repos\Analysistest\obj\Debug\Analysistest.csproj.GenerateResource.cache
+C:\Users\diana\source\repos\Analysistest\obj\Debug\Analysistest.exe.licenses
+C:\Users\diana\source\repos\Analysistest\obj\Debug\Analysistest.csproj.CoreCompileInputs.cache
+C:\Users\diana\source\repos\Analysistest\obj\Debug\Analysistest.csproj.CopyComplete
+C:\Users\diana\source\repos\Analysistest\obj\Debug\Analysistest.exe
+C:\Users\diana\source\repos\Analysistest\obj\Debug\Analysistest.pdb
+C:\Users\diana\source\repos\Analysistest\obj\Debug\Analysistest.csproj.AssemblyReference.cache
